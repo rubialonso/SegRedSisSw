@@ -7,7 +7,7 @@ Ir al sitio web https://masterplc.com/calculadora/convertir-decimal-a-binario/
 **Flag**: picoCTF{101010}
 
 ### Solución 2
-![[Pasted image 20260817232237.png]]
+![[2warm.png]]
 
 ### Notas Adicionales
 Hay varias formar nativas como:

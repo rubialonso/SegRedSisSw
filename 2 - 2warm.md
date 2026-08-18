@@ -7,6 +7,11 @@ Ir al sitio web https://masterplc.com/calculadora/convertir-decimal-a-binario/
 **Flag**: picoCTF{101010}
 
 ### Solución 2
+```
+python
+bin (42)
+> '0b101010'
+```
 ![[2warm.png]]
 
 ### Notas Adicionales

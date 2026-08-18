@@ -8,6 +8,13 @@ Ir al sitio web https://neapay.com/online-tools/hex-to-ascii-converter.html
 
 ### Solución 2
 Entrar a la terminal y ejecutar lo siguiente:
+```
+python
+int (0x70)
+>112
+chr (112)
+```
+
 ![[letswarmup.png]]
 ### Notas Adicionales
 Siempre hay que tener en cuenta el formato de la solución para que sea valida

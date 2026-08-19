@@ -16,7 +16,7 @@ bin (42)
 
 ### Notas Adicionales
 Hay varias formar nativas como:
-* Función bin() - built - in
+* Función bin() - built - in  : es una funciòn de python que convierte un numero entero en decimal
 * format () - sin el prefijo '0b'
 * f-string  - f'{10:b}'
 * con padding de ceros   - format(10,'08b')

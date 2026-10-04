@@ -1,0 +1,332 @@
+{
+  "main": {
+    "id": "adff58f50d896cb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a09304338df5609",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b3b720ac6d3176e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plantilla.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plantilla"
+            }
+          },
+          {
+            "id": "a421d3bdaa530df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Bookmarklet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-Bookmarklet"
+            }
+          },
+          {
+            "id": "f8240a7b62e070ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Cookie Monster Secret Recepie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2-Cookie Monster Secret Recepie"
+            }
+          },
+          {
+            "id": "10f9840f03b1fe12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-findme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-findme"
+            }
+          },
+          {
+            "id": "4bff610b9d36934e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-head-dump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4-head-dump"
+            }
+          },
+          {
+            "id": "6c5571d972aeee97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-Java Code Analysis?!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5-Java Code Analysis?!"
+            }
+          },
+          {
+            "id": "76b4bf40dd78eaaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-nOs4n1t 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6-nOs4n1t 1"
+            }
+          },
+          {
+            "id": "44b380c68feb6e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-SQL Direct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-SQL Direct"
+            }
+          },
+          {
+            "id": "dc70c8334e15eb04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7-SQL Direct.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-SQL Direct"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2df0adc6232feb9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bea8268e0f928a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca88f3ce34f4ac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "c50a00534d81240d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "05d5a65387c65aae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1e68f1608d28cb17",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbfe3ae69210e49c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e09e61bbadb6e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "7-SQL Direct.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "0cd9dab9dfe09b45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "7-SQL Direct.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "bfa9f42614bcc5c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "b8d6fda634f257e1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "d6ec0bda632dc714",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "7-SQL Direct.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "dc70c8334e15eb04",
+  "lastOpenFiles": [
+    "10 - WebSockFish.md",
+    "9 - SSTI2.md",
+    "8 - SSTI1.md",
+    "7-SQL Direct.md",
+    "10-WebSockFish.md",
+    "9-SSTI2.md",
+    "8-SSTI1.md",
+    "Pasted image 20261003233843.png",
+    "6-nOs4n1t 1.md",
+    "Pasted image 20261003232512.png",
+    "Pasted image 20261003232421.png",
+    "Pasted image 20261003232320.png",
+    "Pasted image 20261003232025.png",
+    "Pasted image 20261003231523.png",
+    "Pasted image 20261003231239.png",
+    "Pasted image 20261003230822.png",
+    "Pasted image 20261003230747.png",
+    "5-Java Code Analysis?!.md",
+    "Pasted image 20261003225648.png",
+    "4-head-dump.md",
+    "3-findme.md",
+    "2-Cookie Monster Secret Recepie.md",
+    "1-Bookmarklet.md",
+    "Plantilla.md",
+    "PrimerParcialWeb"
+  ]
+}
